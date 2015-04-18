@@ -1,0 +1,7 @@
+c:\users\yuurga\documents\visual studio 2010\Projects\NotepadTreeViewer\NotepadTreeViewer\bin\Debug\NotepadTreeViewer.dll
+c:\users\yuurga\documents\visual studio 2010\Projects\NotepadTreeViewer\NotepadTreeViewer\bin\Debug\NotepadTreeViewer.pdb
+c:\users\yuurga\documents\visual studio 2010\Projects\NotepadTreeViewer\NotepadTreeViewer\obj\Debug\NotepadTreeViewer.frmMyDlg.resources
+c:\users\yuurga\documents\visual studio 2010\Projects\NotepadTreeViewer\NotepadTreeViewer\obj\Debug\NotepadTreeViewer.Properties.Resources.resources
+c:\users\yuurga\documents\visual studio 2010\Projects\NotepadTreeViewer\NotepadTreeViewer\obj\Debug\NotepadTreeViewer.dll
+c:\users\yuurga\documents\visual studio 2010\Projects\NotepadTreeViewer\NotepadTreeViewer\obj\Debug\NotepadTreeViewer.pdb
+C:\Users\Yuurga\Documents\Visual Studio 2010\Projects\NotepadTreeViewer\NotepadTreeViewer\obj\Debug\NotepadTreeViewer.csproj.GenerateResource.Cache
